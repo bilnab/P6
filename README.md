@@ -10,7 +10,7 @@ L'enjeu est d'ameliorer une plateforme web en proposant de nouvelles fonctionnal
 
 
 ## Ressources:    
-[Jeu de données]https://www.yelp.com/dataset)    
+[Jeu de données](https://www.yelp.com/dataset)    
   
 Autres ressources utiles:  
 [Chargement de gros volumes de données](https://www.codementor.io/guidotournois/4-strategies-to-deal-with-large-datasets-using-pandas-qdw3an95k)  
