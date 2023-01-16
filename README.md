@@ -1,9 +1,9 @@
-# P6  
-<img src="https://github.com/bilnab/P6/blob/main/img/NLP.png" width="150"> <img src="https://github.com/bilnab/P6/blob/main/img/gensim.png" width="150"> <img src="https://github.com/bilnab/P6/blob/main/img/graphQL.png" width="150">   
-<img src="https://github.com/bilnab/P6/blob/main/img/deep.jpg" width="150"> <img src="https://github.com/bilnab/P6/blob/main/img/opencv.png" width="150"> <img src="https://github.com/bilnab/P6/blob/main/img/vgg.png" width="150">   
+# P6 : Projet d'introduction au NLP et à la COMPUTER VISION  
+<img src="/img/NLP.png" width="150"> <img src="/img/gensim.png" width="150"> <img src="/img/graphQL.png" width="150">   
+<img src="/img/deep.jpg" width="150"> <img src="/img/opencv.png" width="150"> <img src="/img/vgg.png" width="150">   
  
-**Projet d'introduction au NLP et à la COMPUTER VISION**  
-  
+
+## Enjeu    
 L'enjeu est d'ameliorer une plateforme web en proposant de nouvelles fonctionnalités de collaboration:   
 * en détectant des sujets d'insatisfaction dans les commentaires laissées.  
 * en labelisant automatiquement des photos postées par des utilisateurs 
@@ -31,15 +31,12 @@ Autres ressources utiles:
 [Transfer Learning](https://machinelearningmastery.com/how-to-use-transfer-learning-when-developing-convolutional-neural-network-models/)  
 [Introduction au deep learning](https://docs.microsoft.com/fr-fr/learn/modules/introduction-to-deep-learning/)  
   
-
 ## Script   
-[un notebook traitant des sujets d'insatisfaction NLP - 1](https://github.com/bilnab/P6/blob/main/P6%20sujet%20insatisfaction%200.1.ipynb)  
-[un notebook traitant des sujets d'insatisfaction NLP - 2](https://github.com/bilnab/P6/blob/main/P6%20sujet%20insatisfaction%200.2.ipynb)  
-[un notebook traitant de la computer vision](https://github.com/bilnab/P6/blob/main/P6%20computer%20vision.ipynb):  
-[un notebook utilisant l'api YELP](https://github.com/bilnab/P6/blob/main/P6%20yelp%20api.ipynb):  
+[un notebook traitant des sujets d'insatisfaction NLP - 1](/P6%20sujet%20insatisfaction%200.1.ipynb)  
+[un notebook traitant des sujets d'insatisfaction NLP - 2](/P6%20sujet%20insatisfaction%200.2.ipynb)  
+[un notebook traitant de la computer vision](/P6%20computer%20vision.ipynb):  
+[un notebook utilisant l'api YELP](/P6%20yelp%20api.ipynb):  
 
- 
- 
 ## Présentation PDF:  
-[pdf complet](https://github.com/bilnab/P6/blob/main/P6.pdf)  
-<img src="https://github.com/bilnab/P6/blob/main/img/P6%20pres.png" height="300">  
+[pdf complet](/P6.pdf)  
+<img src="/img/P6%20pres.png" height="300">  
